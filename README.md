@@ -46,8 +46,20 @@ Pasos:
   
  ![2023-01-14_19h12_30](https://user-images.githubusercontent.com/72228855/212499625-4d0cc8ff-b4f0-4723-9f2f-d03d002eb1e1.png)
  
+ 
+ 12-Para crear la base de datos desde Mongo Atlas de forma manual voy a All Clusters y luego a Collections como se señala en la imagen:
+ 
+ ![2023-01-14_19h43_49](https://user-images.githubusercontent.com/72228855/212500422-d844e7fd-d16d-43e8-8dfb-38b65d0f885c.png)
+
+
+14- Ir al botón create database y luego completar lo que indica el formulario
+
+![2023-01-14_19h59_51](https://user-images.githubusercontent.com/72228855/212500864-0cbfe484-dd70-4bb9-8e4b-faaf779c1ad8.png)
+
   
-12-Una vez que terminamos con los ajustes de MongoDB realizamos el CRUD en SpringBoot y una vez finalizado pasamos a probar con Postman 
+15-Una vez que terminamos con los ajustes de MongoDB realizamos todo el CRUD en SpringBoot y una vez finalizado pasamos a probar con Postman:
+
+
 
 
 
