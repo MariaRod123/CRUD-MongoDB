@@ -49,7 +49,8 @@ Pasos:
  
  12-Para crear la base de datos desde Mongo Atlas de forma manual voy a All Clusters y luego a Collections como se señala en la imagen:
  
- ![2023-01-14_19h43_49](https://user-images.githubusercontent.com/72228855/212500422-d844e7fd-d16d-43e8-8dfb-38b65d0f885c.png)
+ ![2023-01-14_19h43_49](https://user-images.githubusercontent.com/72228855/212500949-1763600e-6aa8-407a-93cd-e5449a2808d6.png)
+
 
 
 14- Ir al botón create database y luego completar lo que indica el formulario
