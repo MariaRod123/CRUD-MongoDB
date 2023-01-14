@@ -23,7 +23,15 @@ Pasos:
 
 ![2023-01-14_18h53_01](https://user-images.githubusercontent.com/72228855/212498833-71ef6508-060c-445f-9bc8-54503b50b73b.png)
 
-9- 
+9- Aquí es donde vamos a elegir la opción que se muestra señalada en la imagen
+
+![2023-01-14_18h55_15](https://user-images.githubusercontent.com/72228855/212498930-58fb19f9-13c9-4cf6-86fb-c72969ea5044.png)
+
+10- Finalizado se debe poder ver la URI de las siguiente forma:
+
+mongodb+srv://<username>:<password>@<cluster-name>.mongodb.net/<db-name>?retryWrites=true&w=majority.
+  
+11-Esta línea de código es la que se va a copiar y pegar en el archivo application.properties del proyecto en SpringBoot  y los va a permitir poder conectarnos a la BD.
 
 
 
