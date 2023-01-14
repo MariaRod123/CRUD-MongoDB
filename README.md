@@ -8,6 +8,10 @@ Pasos:
 
 3-Luego ir a Crear cluster y dejar por defecto la región y el proveedor.
 
+![2023-01-14_19h06_10](https://user-images.githubusercontent.com/72228855/212499131-e510c3bf-1888-4c15-9178-d78076c148df.png)
+
+
+
 ![2023-01-14_18h41_33](https://user-images.githubusercontent.com/72228855/212498848-9a5c4c56-a537-4e01-9c1d-837c313fddce.png)
 
 
@@ -31,7 +35,12 @@ Pasos:
 
 mongodb+srv://<username>:<password>@<cluster-name>.mongodb.net/<db-name>?retryWrites=true&w=majority.
   
-11-Esta línea de código es la que se va a copiar y pegar en el archivo application.properties del proyecto en SpringBoot  y los va a permitir poder conectarnos a la BD.
+11-Esta línea de código es la que se va a copiar y pegar en el archivo application.properties del proyecto en SpringBoot y nos va a permitir poder conectarnos a la BD.
+  
+ ![2023-01-14_19h12_30](https://user-images.githubusercontent.com/72228855/212499625-4d0cc8ff-b4f0-4723-9f2f-d03d002eb1e1.png)
+ 
+  
+12-Una vez que terminamos con los ajustes de MongoDB realizamos el CRUD en SpringBoot y una vez finalizado pasamos a probar con Postman
 
 
 
