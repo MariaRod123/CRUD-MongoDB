@@ -1,0 +1,6 @@
+com\example\pruebaCrud\controller\MascotaController.class
+com\example\pruebaCrud\services\MascotaServiceImpl.class
+com\example\pruebaCrud\model\Mascota.class
+com\example\pruebaCrud\interfaces\IMascota.class
+com\example\pruebaCrud\repository\MascotaRepository.class
+com\example\pruebaCrud\PruebaCrudApplication.class
