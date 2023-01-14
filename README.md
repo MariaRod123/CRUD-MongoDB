@@ -21,6 +21,9 @@ Pasos:
 
 6-Luego nos pide que agreguemos un usuario para la base de datos y allí nos solicita nombre de usuario y contraseña.
 
+![2023-01-14_19h31_57](https://user-images.githubusercontent.com/72228855/212500035-0f25acfc-90c3-4b35-8275-f84cb9f0363c.png)
+
+
 7-Continuando con los ajustes tenemos que agregar la dirección IP a través del botón Añadir dirección IP 
 
 8-Una vez que ya tenemos creado el cluster vamos a entrar en Connect
