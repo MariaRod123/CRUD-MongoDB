@@ -33,7 +33,7 @@ Pasos:
 
 10- Finalizado se debe poder ver la URI de las siguiente forma:
 
-mongodb+srv://<username>:<password>@<cluster-name>.mongodb.net/<db-name>?retryWrites=true&w=majority.
+mongodb+srv://<username>:<password><@><cluster-name>.mongodb.net/<db-name>?retryWrites=true&w=majority.
   
 11-Esta línea de código es la que se va a copiar y pegar en el archivo application.properties del proyecto en SpringBoot y nos va a permitir poder conectarnos a la BD.
   
