@@ -33,14 +33,17 @@ Pasos:
 
 10- Finalizado se debe poder ver la URI de las siguiente forma:
 
-mongodb+srv://<username>:<password><@><cluster-name>.mongodb.net/<db-name>?retryWrites=true&w=majority.
+![2023-01-14_19h24_12](https://user-images.githubusercontent.com/72228855/212499788-6eb548b4-7ebb-4894-bc1d-193c1f2ef8cf.png)
+
   
 11-Esta línea de código es la que se va a copiar y pegar en el archivo application.properties del proyecto en SpringBoot y nos va a permitir poder conectarnos a la BD.
   
  ![2023-01-14_19h12_30](https://user-images.githubusercontent.com/72228855/212499625-4d0cc8ff-b4f0-4723-9f2f-d03d002eb1e1.png)
  
   
-12-Una vez que terminamos con los ajustes de MongoDB realizamos el CRUD en SpringBoot y una vez finalizado pasamos a probar con Postman
+12-Una vez que terminamos con los ajustes de MongoDB realizamos el CRUD en SpringBoot y una vez finalizado pasamos a probar con Postman 
+
+
 
 
 
