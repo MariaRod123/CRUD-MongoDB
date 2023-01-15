@@ -12,9 +12,6 @@ public class MascotaServiceImpl {
     MascotaRepository repository;
 
 
-    // Se implementan los métodos que están definidos en la interfaz IMascota
-
-
     public Mascota saveMascota(Mascota mascota) {
         return repository.save(mascota);
     }
