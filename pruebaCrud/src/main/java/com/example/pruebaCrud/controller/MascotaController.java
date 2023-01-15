@@ -14,8 +14,6 @@ public class MascotaController {
      MascotaServiceImpl service;
 
 
-    // Se definen los endpoints
-
     @PostMapping("/mascotas")  //crear nueva mascota
     public Mascota saveMascota(@RequestBody Mascota mascota) {
         return service.saveMascota(mascota);
@@ -51,7 +49,7 @@ public class MascotaController {
         mascotaActualizada.get().setSexo(mascota.getSexo());
         mascotaActualizada.get().setTipo(mascota.getTipo());
 
-        return service.saveMascota(mascotaActualizada.get()); //devuelve los nuevos datos de la mascota
+        return service.saveMascota(mascotaActualizada.get()); 
     }
 
 }
