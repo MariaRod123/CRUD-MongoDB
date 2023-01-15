@@ -58,7 +58,7 @@ Pasos:
 ![2023-01-14_19h59_51](https://user-images.githubusercontent.com/72228855/212500864-0cbfe484-dd70-4bb9-8e4b-faaf779c1ad8.png)
 
   
-15-Una vez que terminamos con los ajustes de MongoDB realizamos todo el CRUD en SpringBoot y una vez finalizado pasamos a probar con Postman:
+15-Una vez que terminamos con los ajustes de MongoDB realizamos todo el CRUD en SpringBoot y una vez finalizado pasamos a probar con Postman:  https://youtu.be/PsL9VL26m_A
 
 
 
