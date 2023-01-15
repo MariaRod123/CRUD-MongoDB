@@ -13,7 +13,6 @@ import org.springframework.data.mongodb.core.mapping.Document;
 public class Mascota {
 
 
-    // creacion de los campos del documento para la colección mascotas
     @Id
     private Integer id;
     private String nombre;
