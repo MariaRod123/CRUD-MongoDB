@@ -5,8 +5,6 @@ import java.util.Optional;
 
 public interface IMascota {
 
-    //Se definen los métodos para el CRUD
-
     //crear mascota
     Mascota saveMascota(Mascota mascota);
 
